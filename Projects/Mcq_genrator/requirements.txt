@@ -1,0 +1,17 @@
+streamlit 
+langchain
+langchain-groq
+langchain_huggingface 
+langchain_community
+python-dotenv
+langserve 
+fastapi
+uvicorn
+sse_starlette
+ipykernel
+beautifulsoup4
+chromadb
+pyproject-toml
+arxiv
+wikipedia
+-e .
